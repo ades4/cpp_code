@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\xuman\source\repos\剪绳子\源.cpp(26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\xuman\source\repos\剪绳子\源.cpp(30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\xuman\source\repos\剪绳子\源.cpp(34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+LINK : fatal error LNK1561: 必须定义入口点
