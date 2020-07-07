@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\xuman\source\repos\字符覆盖\源.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xuman\source\repos\字符覆盖\源.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+  字符覆盖.vcxproj -> C:\Users\xuman\source\repos\字符覆盖\Debug\字符覆盖.exe
