@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\xuman\source\repos\1-10排序算法\源.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xuman\source\repos\1-10排序算法\源.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xuman\source\repos\1-10排序算法\源.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+  1-10排序算法.vcxproj -> C:\Users\xuman\source\repos\1-10排序算法\Debug\1-10排序算法.exe
