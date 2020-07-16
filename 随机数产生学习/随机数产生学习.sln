@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "随机数产生学习", "随机数产生学习.vcxproj", "{0012437E-4413-4F2C-B891-767D4FCA3A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0012437E-4413-4F2C-B891-767D4FCA3A81}.Debug|x64.ActiveCfg = Debug|x64
+		{0012437E-4413-4F2C-B891-767D4FCA3A81}.Debug|x64.Build.0 = Debug|x64
+		{0012437E-4413-4F2C-B891-767D4FCA3A81}.Debug|x86.ActiveCfg = Debug|Win32
+		{0012437E-4413-4F2C-B891-767D4FCA3A81}.Debug|x86.Build.0 = Debug|Win32
+		{0012437E-4413-4F2C-B891-767D4FCA3A81}.Release|x64.ActiveCfg = Release|x64
+		{0012437E-4413-4F2C-B891-767D4FCA3A81}.Release|x64.Build.0 = Release|x64
+		{0012437E-4413-4F2C-B891-767D4FCA3A81}.Release|x86.ActiveCfg = Release|Win32
+		{0012437E-4413-4F2C-B891-767D4FCA3A81}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ACDA20A-04F0-4D82-B7E5-F1981705B4CE}
+	EndGlobalSection
+EndGlobal
