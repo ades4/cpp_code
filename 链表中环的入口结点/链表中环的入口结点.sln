@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表中环的入口结点", "链表中环的入口结点.vcxproj", "{E26A6761-EF39-4E40-8D11-657A08AE890A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E26A6761-EF39-4E40-8D11-657A08AE890A}.Debug|x64.ActiveCfg = Debug|x64
+		{E26A6761-EF39-4E40-8D11-657A08AE890A}.Debug|x64.Build.0 = Debug|x64
+		{E26A6761-EF39-4E40-8D11-657A08AE890A}.Debug|x86.ActiveCfg = Debug|Win32
+		{E26A6761-EF39-4E40-8D11-657A08AE890A}.Debug|x86.Build.0 = Debug|Win32
+		{E26A6761-EF39-4E40-8D11-657A08AE890A}.Release|x64.ActiveCfg = Release|x64
+		{E26A6761-EF39-4E40-8D11-657A08AE890A}.Release|x64.Build.0 = Release|x64
+		{E26A6761-EF39-4E40-8D11-657A08AE890A}.Release|x86.ActiveCfg = Release|Win32
+		{E26A6761-EF39-4E40-8D11-657A08AE890A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF9374AC-9940-4832-9F25-465C5DA81615}
+	EndGlobalSection
+EndGlobal
