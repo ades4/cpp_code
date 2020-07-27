@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉树的镜像", "二叉树的镜像.vcxproj", "{009C08C4-ABE7-4E28-B95F-6C8FD1019D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009C08C4-ABE7-4E28-B95F-6C8FD1019D5F}.Debug|x64.ActiveCfg = Debug|x64
+		{009C08C4-ABE7-4E28-B95F-6C8FD1019D5F}.Debug|x64.Build.0 = Debug|x64
+		{009C08C4-ABE7-4E28-B95F-6C8FD1019D5F}.Debug|x86.ActiveCfg = Debug|Win32
+		{009C08C4-ABE7-4E28-B95F-6C8FD1019D5F}.Debug|x86.Build.0 = Debug|Win32
+		{009C08C4-ABE7-4E28-B95F-6C8FD1019D5F}.Release|x64.ActiveCfg = Release|x64
+		{009C08C4-ABE7-4E28-B95F-6C8FD1019D5F}.Release|x64.Build.0 = Release|x64
+		{009C08C4-ABE7-4E28-B95F-6C8FD1019D5F}.Release|x86.ActiveCfg = Release|Win32
+		{009C08C4-ABE7-4E28-B95F-6C8FD1019D5F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54142225-850C-4D18-AD8B-4FAD68F274E0}
+	EndGlobalSection
+EndGlobal
