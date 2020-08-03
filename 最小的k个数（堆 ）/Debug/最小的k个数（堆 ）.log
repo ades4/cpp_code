@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\xuman\source\repos\最小的k个数（堆 ）\源.cpp(29): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\xuman\source\repos\最小的k个数（堆 ）\源.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+  最小的k个数（堆 ）.vcxproj -> C:\Users\xuman\source\repos\最小的k个数（堆 ）\Debug\最小的k个数（堆 ）.exe
