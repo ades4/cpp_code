@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "扑克牌顺子", "扑克牌顺子.vcxproj", "{9D578CCF-D2AB-429C-9F56-93D904334916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D578CCF-D2AB-429C-9F56-93D904334916}.Debug|x64.ActiveCfg = Debug|x64
+		{9D578CCF-D2AB-429C-9F56-93D904334916}.Debug|x64.Build.0 = Debug|x64
+		{9D578CCF-D2AB-429C-9F56-93D904334916}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D578CCF-D2AB-429C-9F56-93D904334916}.Debug|x86.Build.0 = Debug|Win32
+		{9D578CCF-D2AB-429C-9F56-93D904334916}.Release|x64.ActiveCfg = Release|x64
+		{9D578CCF-D2AB-429C-9F56-93D904334916}.Release|x64.Build.0 = Release|x64
+		{9D578CCF-D2AB-429C-9F56-93D904334916}.Release|x86.ActiveCfg = Release|Win32
+		{9D578CCF-D2AB-429C-9F56-93D904334916}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACC88E18-7C6F-4E4E-AD73-F9D7F6F02E22}
+	EndGlobalSection
+EndGlobal
