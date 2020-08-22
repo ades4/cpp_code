@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\xuman\source\repos\360笔试编程题\源.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xuman\source\repos\360笔试编程题\源.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xuman\source\repos\360笔试编程题\源.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xuman\source\repos\360笔试编程题\源.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+  360笔试编程题.vcxproj -> C:\Users\xuman\source\repos\360笔试编程题\Debug\360笔试编程题.exe
