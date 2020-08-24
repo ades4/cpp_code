@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\xuman\source\repos\360复笔试\源.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xuman\source\repos\360复笔试\源.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+  360复笔试.vcxproj -> C:\Users\xuman\source\repos\360复笔试\Debug\360复笔试.exe
