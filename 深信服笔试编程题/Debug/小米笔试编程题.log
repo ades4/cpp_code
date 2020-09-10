@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\xuman\source\repos\小米笔试编程题\源.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xuman\source\repos\小米笔试编程题\源.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+  小米笔试编程题.vcxproj -> C:\Users\xuman\source\repos\小米笔试编程题\Debug\小米笔试编程题.exe
