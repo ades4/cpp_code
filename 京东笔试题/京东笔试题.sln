@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "京东笔试题", "京东笔试题.vcxproj", "{11A3A93F-DC98-4A8D-A8B8-12A8BA210B4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A3A93F-DC98-4A8D-A8B8-12A8BA210B4B}.Debug|x64.ActiveCfg = Debug|x64
+		{11A3A93F-DC98-4A8D-A8B8-12A8BA210B4B}.Debug|x64.Build.0 = Debug|x64
+		{11A3A93F-DC98-4A8D-A8B8-12A8BA210B4B}.Debug|x86.ActiveCfg = Debug|Win32
+		{11A3A93F-DC98-4A8D-A8B8-12A8BA210B4B}.Debug|x86.Build.0 = Debug|Win32
+		{11A3A93F-DC98-4A8D-A8B8-12A8BA210B4B}.Release|x64.ActiveCfg = Release|x64
+		{11A3A93F-DC98-4A8D-A8B8-12A8BA210B4B}.Release|x64.Build.0 = Release|x64
+		{11A3A93F-DC98-4A8D-A8B8-12A8BA210B4B}.Release|x86.ActiveCfg = Release|Win32
+		{11A3A93F-DC98-4A8D-A8B8-12A8BA210B4B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E0F584E-ADD7-49CB-A26A-BA93E7174EC8}
+	EndGlobalSection
+EndGlobal
